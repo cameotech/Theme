@@ -1,0 +1,2 @@
+# Theme
+Tema hugo cameotech
